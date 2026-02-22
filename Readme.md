@@ -25,6 +25,7 @@ This repository provides a comprehensive roadmap for learning Reinforcement Lear
 - [Reinforcement Learning:
 An Introduction, by Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - Based on [David Silver's RL Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Gymnasium](https://gymnasium.farama.org)
 
 ## Getting Started
 
