@@ -27,12 +27,21 @@ This repository provides a comprehensive roadmap for learning Reinforcement Lear
 - Q learning
 - Cart Pole Problem Implementation using Q learning
 
+### Week 4: Linear Function Approximation
+- Function Approximation introduction (Value-based vs Policy-based approaches)
+- Objective Function and Semi-gradient Descent (Mean Squared Value Error)
+- Linear Function Approximation
+- Feature Construction (Polynomials, Tile Coding)
+- Convergence Issues (the Deadly Triad)
+- Cart Pole Problem Implementation using SARSA and Q-learning with Linear FA
+
 ## Resources
 
 - [Reinforcement Learning:
 An Introduction, by Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - Based on [David Silver's RL Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Gymnasium](https://gymnasium.farama.org)
+- DeepMind x UCL youtube courses: [2018](https://youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb&si=tq9fJK0pzziSSfU8), [2021](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=CtNK4G9jomUVP_MZ)
 
 ## Getting Started
 
@@ -44,4 +53,4 @@ Contributions and improvements are welcome!
 
 ---
 
-*Last Updated: 31st Jan 2026*
+*Last Updated: 24th Mar 2026*
